@@ -10,7 +10,6 @@ body {
 
 main {
   margin: 8px auto;
-  max-width: 760px;
   border-radius: 8px;
   padding: 8px;
   background-color: #EEEEEE;
@@ -22,7 +21,8 @@ main {
 }
 
 section {
-  margin: 56px 0;
+  margin: 56px auto;
+  max-width: 560px;
 }
 
 header {
